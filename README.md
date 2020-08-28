@@ -1,7 +1,9 @@
-### Hi there 👋
+### Sumin Shin 👋
+---
+* Studying in Graduate School of AI, KAIST
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/수민-신-011a90162/)
-	
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/수민-신-011a90162/)](https://www.linkedin.com/in/수민-신-011a90162/)
+[![RocketPunch Badge](https://img.shields.io/badge/-RocketPunch-blueviolet?style=flat-square&logoColor=white&link=https://www.rocketpunch.com/@ssumin6)](https://www.rocketpunch.com/@ssumin6)
 
 <!--
 **ssumin6/ssumin6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
