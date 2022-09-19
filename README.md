@@ -1,5 +1,6 @@
 ### Sumin Shin 👋
-* Studying in Graduate School of AI, KAIST
+* Master's Degree at Graduate School of AI, KAIST
+* Currently working in 
 
 <div align=center>
 
