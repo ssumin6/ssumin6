@@ -1,6 +1,7 @@
 ### Sumin Shin 👋
+* AI Engineer dealing with computer vision problems.
 * Master's Degree at Graduate School of AI, KAIST
-* Currently working in 
+* 🔭 I’m currently working on LINE+ Corporation.
 
 <div align=center>
 
@@ -8,11 +9,10 @@
 [![RocketPunch Badge](https://img.shields.io/badge/-RocketPunch-blueviolet?style=flat-square&logoColor=white&link=https://www.rocketpunch.com/@ssumin6)](https://www.rocketpunch.com/@ssumin6)
 </div>
 <!--
-**ssumin6/ssumin6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
