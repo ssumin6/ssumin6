@@ -1,7 +1,7 @@
 ### Sumin Shin 👋
 * 🤔 AI Engineer dealing with computer vision problems.
 * 📚 Master's Degree at Graduate School of AI, KAIST
-* 🔭 I’m currently working on LINE+ Corporation as an AI Application Researcher.
+* 🔭 I’m currently working on LINE+ Corporation as an AI Application Researcher focusing on Edge devices.
 
 <div align=center>
 
