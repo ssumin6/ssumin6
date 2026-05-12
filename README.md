@@ -1,7 +1,8 @@
 ### Sumin Shin 👋
-* 🤔 AI Engineer dealing with computer vision problems.
+* 🤔 AI Engineer dealing with broad domain of AI including AI agents, GenAI and computer vision.
 * 📚 Master's Degree at Graduate School of AI, KAIST
-* 🔭 I’m currently working on LINE+ Corporation as an AI Application Researcher focusing on Edge devices.
+* Achieve PAD1 certificate on face spoof detection at LINE+
+* 🔭 I’m currently working on Mckinsey as a Data scientist delivering client impacts
 
 <div align=center>
 
